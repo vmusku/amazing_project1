@@ -1,7 +1,8 @@
 <html>
 <ul>
    <li>sugar</li>
-   <li>milk</tea>
+   <li>milk</li>
+      <li>tea</li>
 </ul>
 <body> </body>
 </html>
